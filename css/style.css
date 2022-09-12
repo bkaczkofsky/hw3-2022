@@ -49,6 +49,8 @@ div {
     text-align: right;
     margin-left: 50px;
     margin-right: 0px;
+    margin-bottom: 0px;
+    margin-top: 0px;
     border-bottom: 2px;
     border-left: 5px;
 }
@@ -59,6 +61,8 @@ div {
     text-align: left;
     margin-right: 50px;
     margin-left: 0px;
+    margin-bottom: 0px;
+    margin-top: 0px;
     border-right: 5px;
     border-top: 2px;
 }
@@ -76,6 +80,8 @@ div {
     text-align: right;
     margin-left: 50px;
     margin-right: 0px;
+    margin-bottom: 0px;
+    margin-top: 0px;
     border-bottom: 2px;
     border-left: 5px;
 }
@@ -89,6 +95,8 @@ div {
     text-align: left;
     margin-right: 50px;
     margin-left: 0px;
+    margin-bottom: 0px;
+    margin-top: 0px;
     border-right: 5px;
     border-top: 2px;
 }
