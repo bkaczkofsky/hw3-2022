@@ -2,7 +2,7 @@ body {
     font-family: Arial, Verdana;
     color: #ffffff;
     background-color: #000000;
-    margin-bottom: 20px;
+    margin-top: 20px;
     margin-left: 20px;
     margin-right: 20px;
 }
@@ -29,7 +29,7 @@ img {
     display: block;
     margin-left: auto;
     margin-right: auto;
-    border: 10px dashed white
+    border: 10px dashed #ffffff;
 }
 
 div {
@@ -48,8 +48,8 @@ div {
     background-color: #ff0000;
     text-align: right;
     margin-left: 50px;
-    border-top: 2px;
-    border-right: 5px;
+    border-bottom: 2px;
+    border-left: 5px;
 }
 
 
@@ -57,8 +57,8 @@ div {
     background-color: #0000ff;
     text-align: left;
     margin-right: 50px;
-    border-left: 5px;
-    border-bottom: 2px;
+    border-right: 5px;
+    border-top: 2px;
 }
 
 .blue h2 {
@@ -73,8 +73,8 @@ div {
     background-color: #ffff00;
     text-align: right;
     margin-left: 50px;
-    border-top: 2px;
-    border-right: 5px;
+    border-bottom: 2px;
+    border-left: 5px;
 }
 
 .yellow p {
@@ -82,16 +82,16 @@ div {
 }
 
 .green {
-    background-color: #00EB00;
+    background-color: #008500;
     text-align: left;
     margin-right: 50px;
-    border-left: 5px;
-    border-bottom: 2px;
+    border-right: 5px;
+    border-top: 2px;
 }
 
 footer {
     background: linear-gradient(90deg, #000000 0%, #0000ff 25%, #0066ff 70%, #000000 100%);
-    border: 5px solid white;
+    border: 5px solid #ffffff;
 }
 
 footer p {
